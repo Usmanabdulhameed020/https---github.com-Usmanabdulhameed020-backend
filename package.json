@@ -1,0 +1,19 @@
+{
+  "name": "ass",
+  "version": "1.0.0",
+  "description": "Hmmmmmmmmm",
+  "keywords": [
+    "nodemon",
+    "express"
+  ],
+  "license": "ISC",
+  "author": "Hmm Hmm",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
