@@ -3,6 +3,8 @@ const app = express();
 
 app.use(express.json());
 
+let id = 2;
+
 let passwords = [
   { id: 1, site: "test", username: "admin", password: "1234" }
 ];
